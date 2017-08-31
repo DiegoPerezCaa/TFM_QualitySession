@@ -17,4 +17,4 @@ Claramente esta nueva funcionalidad de Google Analytics tiene un gran potencial 
 
 Por estos motivos mi objetivo es replicar estas métricas usando las técnicas de machine learning aprendidas en el máster en data science de Kschool y si es posible intentar profundizar más aun y no quedarnos únicamente en la sesión e intentar acercarnos más al usuario. Además, si un negocio dispone de varias formas de llegar digitalmente al cliente (desktop, tablet, mobile, apps...), google no hace el seguimiento de las sesiones del usuario por todos estos canales para posteriormente unificar esta información... En definitiva el objetivo es hacer un proyecto que facilite este trabajo a cualquier empresa y además intentar ir más haya y mejorar la calidad de la información proporcionada por google 😁.
 
-Go for it!
+Go for it!💪
