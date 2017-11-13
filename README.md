@@ -1,4 +1,4 @@
-# TFM_QualitySession
+# TFM_QualityUser
 
 ## Introducción
 A mediados de 2017 Google Analytics lanzó una nueva métrica denominada calidad de sesión. Esta nueva métrica utiliza técnicas de machine learning similares a Smart List y Smart Goals con el fín de poder evaluar cada sesión y conocer así la probabilidad que ha tenido esta de hacer una conversión.
